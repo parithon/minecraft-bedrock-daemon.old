@@ -1,6 +1,10 @@
 {
 	"folders": [
 		{
+			"name": "minecraft.service",
+			"path": "minecraft.service"
+		},
+		{
 			"path": "."
 		}
 	],

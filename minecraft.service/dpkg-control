@@ -1,0 +1,8 @@
+Package: minecraft-bedrock-server 
+Version: 0.6
+Section: base 
+Priority: optional 
+Architecture: all 
+Depends: docker
+Maintainer: parithon@outlook.com
+Description: A Minecraft Bedrock Server daemon that ensures a docker container is running the bedrock server
